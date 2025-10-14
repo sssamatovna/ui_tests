@@ -1,6 +1,5 @@
 # UI Automation Project
 
-# UI Tests – Form Fields Automation
 
 ## 📋 Описание
 Проект для автоматизации тестирования формы на сайте [practice-automation.com/form-fields](https://practice-automation.com/form-fields/).
