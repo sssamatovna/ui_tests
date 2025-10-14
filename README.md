@@ -68,6 +68,8 @@ ID: TC002
 
 Ожидаемый результат: Форма не отправляется, появляется валидация обязательного поля Name
 
+## 🏁 Allure отчеты 
+
 <img width="1914" height="867" alt="image" src="https://github.com/user-attachments/assets/3f030450-5408-4c4d-b504-14a0e589700d" />
 
 <img width="1919" height="962" alt="image" src="https://github.com/user-attachments/assets/5d5bc833-ec02-4149-a304-92e8f76546d4" />
