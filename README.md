@@ -1,6 +1,19 @@
 # UI Automation Project
 
-Проект автоматизации UI-тестов для формы на сайте practice-automation.com
+# UI Tests – Form Fields Automation
+
+## 📋 Описание
+Проект для автоматизации тестирования формы на сайте [practice-automation.com/form-fields](https://practice-automation.com/form-fields/).
+Реализован с использованием **Selenium WebDriver**, **Pytest** и **Allure Reports** по паттерну **Page Object Model (POM)**.
+
+## 🚀 Технологии
+- Python 3.10+
+- Selenium WebDriver
+- Pytest
+- Allure Framework
+- WebDriver Manager
+
+## 🧩 Структура проекта
 
 Тест-кейсы
 
